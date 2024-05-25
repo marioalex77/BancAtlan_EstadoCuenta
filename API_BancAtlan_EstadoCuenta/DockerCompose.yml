@@ -1,0 +1,24 @@
+services:
+  bancatlan_mssql:
+    container_name: bancatlan_mssql
+    image: 2022-latest
+    restart: unless-stopped
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Banc@t1an$2024
+      - MSSQL_PID=Developer
+    expose:
+      - "1433"
+    ports:
+      - "1433:1433"
+    volumes:
+      - type: bind
+        source: ../BancAtlan/EstadoCuenta
+        target: /var/lib/postgresql/data
+    networks:
+      - bancatlan_network
+
+networks:
+  bancatlan_network:
+    name: bancatlan_net
+    driver: bridge
