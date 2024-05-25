@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "am6BPe3DfdUZP3bEqvvWfU7ee+/JRe0BVXLvgOQFo9Z7WiXOzinZsFpdonksv3lXwIzchkipREVlw55RB6KwWw==",
+  "dgSpecHash": "QpaPvxizlQOheplYd8QuO8ya8bzdcnviSEEYgkigBLIreLmOGe0J3qYfGm42IiL/B3EvR8crsq6Um+SS99KHNQ==",
   "success": true,
-  "projectFilePath": "D:\\Ejercicios\\Vs2022\\API_BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta.csproj",
+  "projectFilePath": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

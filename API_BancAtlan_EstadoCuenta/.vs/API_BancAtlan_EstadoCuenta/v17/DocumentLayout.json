@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ejercicios\\Vs2022\\API_BancAtlan_EstadoCuenta\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|d:\\ejercicios\\vs2022\\api_bancatlan_estadocuenta\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|d:\\ejercicios\\vs2022\\api_bancatlan_estadocuenta\\dockercompose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|solutionrelative:dockercompose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,34 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Readme.txt",
-              "DocumentMoniker": "D:\\Ejercicios\\Vs2022\\API_BancAtlan_EstadoCuenta\\Readme.txt",
-              "RelativeDocumentMoniker": "Readme.txt",
-              "ToolTip": "D:\\Ejercicios\\Vs2022\\API_BancAtlan_EstadoCuenta\\Readme.txt",
-              "RelativeToolTip": "Readme.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-24T23:53:23.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DockerCompose.yml",
-              "DocumentMoniker": "D:\\Ejercicios\\Vs2022\\API_BancAtlan_EstadoCuenta\\DockerCompose.yml",
-              "RelativeDocumentMoniker": "DockerCompose.yml",
-              "ToolTip": "D:\\Ejercicios\\Vs2022\\API_BancAtlan_EstadoCuenta\\DockerCompose.yml",
-              "RelativeToolTip": "DockerCompose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-24T23:31:52.012Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
