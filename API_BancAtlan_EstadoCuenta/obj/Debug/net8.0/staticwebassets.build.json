@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "macWxJs1zRqsg7MIGMUn+3ybgHujNYr7nJ7IRkLoArQ=",
+  "Source": "API_BancAtlan_EstadoCuenta",
+  "BasePath": "_content/API_BancAtlan_EstadoCuenta",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

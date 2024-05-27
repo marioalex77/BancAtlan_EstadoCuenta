@@ -12,9 +12,7 @@ services:
     ports:
       - "1433:1433"
     volumes:
-      - type: bind
-        source: ../BancAtlan/EstadoCuenta
-        target: /var/lib/postgresql/data
+      - ../BancAtlan/EstadoCuenta:/var/lib/postgresql/data
     networks:
       - bancatlan_network
 
