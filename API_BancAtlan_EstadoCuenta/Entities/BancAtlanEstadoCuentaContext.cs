@@ -58,6 +58,8 @@ public partial class BancAtlanEstadoCuentaContext : DbContext
             entity.Property(e => e.Valor).IsFixedLength();
         });
 
+
+
         modelBuilder.Entity<Transaccion>(entity =>
         {
             entity.Property(e => e.Signo)

@@ -285,6 +285,10 @@ namespace API_BancAtlan_EstadoCuenta.Migrations
                         .HasForeignKey("IdTipoTransaccion")
                         .IsRequired()
                         .HasConstraintName("FK_transaccion_tipo_transaccion");
+                    b.HasData(
+                            new TipoTransaccion() { Valor = "C", Concepto = "Compra" },
+                            new TipoTransaccion() { Valor = "P", Concepto = "Pago" }
+                        );
 
                     b.Navigation("IdTarjetaNavigation");
 

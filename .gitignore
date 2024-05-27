@@ -1,2 +1,9 @@
-.\API_BancAtlan_EstadoCuenta\.vs
-.\API_BancAtlan_EstadoCuenta\bin
+\API_BancAtlan_EstadoCuenta\.vs\*.*
+\API_BancAtlan_EstadoCuenta\bin\*.*
+
+*.vsidx
+*.v2
+*.suo
+*.bin
+*.dll
+*.cache

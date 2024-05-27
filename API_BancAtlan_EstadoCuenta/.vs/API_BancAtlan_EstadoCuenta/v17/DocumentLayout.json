@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|d:\\ejercicios\\vs2022\\bancatlan_estadocuenta\\api_bancatlan_estadocuenta\\migrations\\bancatlanestadocuentacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|solutionrelative:migrations\\bancatlanestadocuentacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|d:\\ejercicios\\vs2022\\bancatlan_estadocuenta\\api_bancatlan_estadocuenta\\entities\\tipotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|solutionrelative:entities\\tipotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|d:\\ejercicios\\vs2022\\bancatlan_estadocuenta\\api_bancatlan_estadocuenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5617D74A-08F0-4E28-AEAF-3334C76132D2}|API_BancAtlan_EstadoCuenta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BancAtlanEstadoCuentaContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\Migrations\\BancAtlanEstadoCuentaContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BancAtlanEstadoCuentaContextModelSnapshot.cs",
+              "ToolTip": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\Migrations\\BancAtlanEstadoCuentaContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BancAtlanEstadoCuentaContextModelSnapshot.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAAACIBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:37:20.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoTransaccion.cs",
+              "DocumentMoniker": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\Entities\\TipoTransaccion.cs",
+              "RelativeDocumentMoniker": "Entities\\TipoTransaccion.cs",
+              "ToolTip": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\Entities\\TipoTransaccion.cs",
+              "RelativeToolTip": "Entities\\TipoTransaccion.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:34:49.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ejercicios\\Vs2022\\BancAtlan_EstadoCuenta\\API_BancAtlan_EstadoCuenta\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:13:56.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -13,6 +13,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<BancAtlanEstadoCuentaContext>(options => options.UseSqlServer("Name=ConnectionStrings:BancAtlan"));
 builder.Services.AddScoped<IFacadeRepository<Cliente>, ClienteRepository>();
+builder.Services.AddScoped<IFacadeRepository<EstadoCuentum>, EstadoCuentaRepository>();
+builder.Services.AddScoped<IFacadeRepository<Tarjetum>, TarjetaRepository>();
+builder.Services.AddScoped<IFacadeRepository<TipoTransaccion>, TipoTransaccionRepository>();
+builder.Services.AddScoped<IFacadeRepository<Transaccion>, TransaccionRepository>();
 
 var app = builder.Build();
 

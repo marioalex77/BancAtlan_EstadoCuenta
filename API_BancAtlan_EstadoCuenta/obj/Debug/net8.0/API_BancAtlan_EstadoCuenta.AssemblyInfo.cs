@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_BancAtlan_EstadoCuenta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82c3b2923689b10cd001b288a1d109b155d992d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e321e58a4bb327a92504c4859320b7136b81ec73")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_BancAtlan_EstadoCuenta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_BancAtlan_EstadoCuenta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
